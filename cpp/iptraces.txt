@@ -1,0 +1,2 @@
+# One pcap path per line. Paths are relative to the process working directory.
+# /absolute/path/to/trace.pcap
